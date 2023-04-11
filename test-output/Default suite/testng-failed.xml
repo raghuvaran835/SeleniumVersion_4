@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.SeleniumV4.Practice.AutoIT">
+      <class name="com.SeleniumV4.Practice.HandlingShadowRoot">
         <methods>
-          <include name="fileUploadExercise"/>
+          <include name="shadowRootPractice"/>
         </methods>
-      </class> <!-- com.SeleniumV4.Practice.AutoIT -->
+      </class> <!-- com.SeleniumV4.Practice.HandlingShadowRoot -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
